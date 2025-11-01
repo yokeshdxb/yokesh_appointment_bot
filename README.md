@@ -1,4 +1,4 @@
-# 🤖 Appointment booking AI Agent Bot (n8n Automation)
+# 🤖 Appointment Booking AI Agent Bot (n8n Automation)
 
 This project integrates **Telegram**, **OpenAI**, and **Google Workspace tools** using **n8n** to create a smart conversational assistant capable of understanding natural language, checking calendar availability, scheduling events, and logging structured data in Google Sheets.
 
